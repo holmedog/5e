@@ -5,7 +5,7 @@ This will be used as a demo during our ACA Git crash course
 
 
 
-Git Commands
+Git Commands:
 
 
 git config
