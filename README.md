@@ -199,7 +199,7 @@ Usage: git push –all [variable name]
 
 This command pushes all branches to your remote repository.
 
-Git Push Command - Git Commands 
+Git Push Command - Git Commands  
 
 Usage: git push [variable name] :[branch name]  
 
