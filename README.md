@@ -207,7 +207,7 @@ This command deletes a branch on your remote repository.
 
 Git Push Command - Git Commands 
 
-git pull
+git pull 
 Usage: git pull [Repository Link]  
 
 This command fetches and merges changes on the remote server to your working directory.
