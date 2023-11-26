@@ -56,8 +56,7 @@
 +	FS-58	2845 	3543	0	true
 +	FS-59	3508 	1080	0	true
 +	FS-60	3549 	1461	0	true
-+	FS-61	3753	1415	0	true
-+	FS-62	4145	1264	0	true
++	FS-61	2246	3089	0	true
 +	FS-69	1037	2702	0	true
 +	WARG-1	2551	3396	0	true
 +	WARG-2	4050	1831	0	true
