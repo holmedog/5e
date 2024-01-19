@@ -37,6 +37,7 @@
 +	FS-30	2506	1017	0	true
 +	FS-31	3802	1663	0	true
 +	FS-31B	3608	1665	0	true
++	FS-31C	3633	1725	0	true
 +	FS-32	2743	3500	0	true
 +	FS-33	2271	2303	0	true
 +	FS-35	3506	1510	0	true
@@ -44,7 +45,7 @@
 +	FS-37	3088	3637	0	true
 +	FS-39	2549	450	0	true
 +	FS-43	2332	3392	0	true
-+	FS-44	4004	1488	0	true
++	FS-44	4004	1488	1	false
 +	FS-46	4042	1807	0	true
 +	FS-47	2129	1193	0	true
 +	FS-51	2221	3098	0	true
@@ -70,6 +71,7 @@
 +	WARG-9	480	1820	0	true
 +	WARG-10	2690	3493	0	true
 +	WARG-11	2806	346	0	true
++	ARMA-1	944	1724	0	true
 +	ORK-1	3065	3397	0	true
 +	ORK-2	3424	3795	0	true
 +	ORK-4	1646	501	0	true
