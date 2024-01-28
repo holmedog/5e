@@ -1,3 +1,4 @@
++	FS-GH	383	311	0	true
 +	FS-00	622	548	0	true
 +	FS-1	2222	2203	0	true
 +	FS-2	3715	1839	0	true
@@ -39,18 +40,20 @@
 +	FS-31	3802	1663	0	true
 +	FS-31B	3608	1665	0	true
 +	FS-31C	3633	1725	0	true
++	FS-31D	3734	1662	0	true
 +	FS-32	2743	3500	0	true
 +	FS-33	2271	2303	0	true
 +	FS-35	3506	1510	0	true
++	FS-35B	3549 	1461	0	true
 +	FS-36	3281	851	0	true
 +	FS-37	3088	3637	0	true
 +	FS-37B	3040	3632	0	true
 +	FS-39	2549	450	0	true
-+	FS-43	2332	3392	0	true
++	FS-43	2328	3401	0	true
 +	FS-44	4004	1488	1	false
 +	FS-46	4042	1807	0	true
 +	FS-47	2129	1193	0	true
-+	FS-51	2221	3098	1	false
++	FS-48	578	743	0	true
 +	FS-52	3339	3765	0	true
 +	FS-53	3041	3774	0	true
 +	FS-54	4283	1215	1	false
@@ -58,9 +61,10 @@
 +	FS-56	2535	436	0	true
 +	FS-57	795	1001	0	true
 +	FS-58	2845 	3543	0	true
++	FS-58B	2888 	3453	0	true
 +	FS-59	3508 	1080	1	false
-+	FS-60	3549 	1461	0	true
 +	FS-61	2246	3089	0	true
++	FS-61B	2403	3017	0	true
 +	FS-69	1037	2702	0	true
 +	WARG-1	2551	3396	0	true
 +	WARG-2	4050	1831	0	true
@@ -80,6 +84,7 @@
 +	ORK-5	4063	1548	0	true
 +	ORK-6	760	1003	0	true
 +	ORK-7	9999	9999	1	false
++	ORK-8	1264	803	0	true
 +	BOW-1	794	3260	0	true
 +	PUB-1	2173	812	0	true
 +	PUB-2	2312	454	0	true
