@@ -5,7 +5,6 @@
 +	FS-2B	3725	1858	0	true
 +	FS-3	486	1047	0	true
 +	FS-3B	514	1005	0	true
-+	FS-3C	609	917	0	true
 +	FS-4	632	582	0	true
 +	FS-5	1610	506	0	true
 +	FS-6	4346	682	0	true
@@ -53,7 +52,6 @@
 +	FS-43	2328	3401	0	true
 +	FS-44	4004	1488	1	false
 +	FS-46	4042	1807	0	true
-+	FS-47	2129	1193	0	true
 +	FS-48	578	743	0	true
 +	FS-52	3339	3765	0	true
 +	FS-52B	3368	3845	0	true
