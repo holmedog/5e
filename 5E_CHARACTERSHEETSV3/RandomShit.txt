@@ -38,7 +38,7 @@
 +	FS-31B	3608	1665	0	true
 +	FS-31C	3633	1725	0	true
 +	FS-31D	3734	1662	0	true
-+	FS-32	2743	3500	0	true
++	FS-32	2768	3512	0	true
 +	FS-33	2271	2303	0	true
 +	FS-35	3506	1510	0	true
 +	FS-35B	3549 	1461	0	true
