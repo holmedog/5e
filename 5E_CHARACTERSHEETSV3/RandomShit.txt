@@ -84,7 +84,8 @@
 +	NKB-11	3638	83	0	true
 +	NKB-12	4314	196	0	true
 +	NKB-13	1322	481	0	true
-+	NKB-17	4010	3524	0	true
++	NKB-17	2235	2540	0	true
++	NKB-18	4010	3524	0	true
 +	ORK-2	3424	3795	0	true
 +	ORK-4	1646	501	0	true
 +	ORK-5	4063	1548	0	true
