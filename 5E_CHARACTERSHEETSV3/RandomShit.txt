@@ -63,6 +63,7 @@
 +	FS-74	567	1787	0	true
 +	FS-75	4080	1301	0	true
 +	FS-76	2391	3115	0	true
++	FS-77	4201	2090	0	true
 +	WARG-1	2551	3396	0	true
 +	WARG-2	4050	1831	0	true
 +	WARG-3	1049	3096	0	true
@@ -92,6 +93,7 @@
 +	NKB-19	3790	3685	0	true
 +	NKB-21	4296	2330	0	true
 +	NKB-22	4112	3324	0	true
++	NKB-24	2945	2989	0	true
 +	ORK-2	3424	3795	0	true
 +	ORK-4	1646	501	0	true
 +	ORK-5	4063	1548	0	true
