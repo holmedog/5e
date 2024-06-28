@@ -103,6 +103,7 @@
 +	NKB-19	3790	3685	0	true
 +	NKB-21	4296	2330	0	true
 +	NKB-22	4107	3330	0	true
++	NKB-22	15	3330	0	true
 +	NKB-25	4464	2701	0	true
 +	NKB-26	2803	3357	0	true
 +	NKB-27	4178	3189	0	true
@@ -133,5 +134,4 @@
 +	PUB-20	3459	2649	0	true
 +	PUB-21	4420	2842	0	true
 +	PUB-22	4499	2572	0	true
-+	PUB-22	0	2572	0	true
 +	PUB-23	3844	3728	0	true
