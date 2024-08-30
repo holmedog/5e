@@ -41,7 +41,6 @@
 +	FS-40	3016	3685	0	false
 +	FS-41	2085	1370	0	false
 +	FS-42	656	932	0	false
-+	FS-43	2328	3401	0	false
 +	FS-48	578	743	0	false
 +	FS-52	3339	3765	0	false
 +	FS-53	3041	3774	0	false
