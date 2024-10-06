@@ -126,85 +126,94 @@
 +	PUB-22	4499	2572	0	false
 +	PUB-23	3844	3728	0	false
 +	Ouptpost	3100	6140	0	false
-+	DOK 12	3630	1345	0	false
-+	DOK 2	1464	3069	0	false
-+	DOK 3	1257	476	0	false
-+	DOK 5	1000	3015	0	false
-+	DOK 9 LaunchOnly	4429	2500	0	false
++	DOK-12	3630	1345	0	false
++	DOK-1	2814	3356	0	false
++	DOK-2	1464	3069	0	false
++	DOK-3	1257	476	0	false
++	DOK-5	1000	3015	0	false
++	DOK-6	4153	88	0	false
++	DOK-7	969	2837	0	false
++	DOK-9 LaunchOnly	4429	2500	0	false
 +	DOK-DEADMAN	1042	3290	0	false
 +	DOK-11	3586	1740	0	false
-+	DOK 10	3505	1052	0	false
-+	DOK 16	791	1980	0	false
++	DOK-10	3505	1052	0	false
++	DOK-15	3684	52	0	false
++	DOK-16	791	1980	0	false
++	DOK-19	1050	1821	0	false
 +	DOK-20	2897	435	0	false
-+	DOK 24	3144	3509	0	false
-+	DOK 25	2322	791	0	false
-+	DoK 27	2207	2522	0	false
-+	DoK 32	1066	623	0	false
-+	DoK 35	2118	3284	0	false
-+	DoK 38	3308	115	0	false
-+	DoK 39 dockonly	2369	435	0	false
-+	DoK 40	1032	358	0	false
-+	DoK 42	2401	981	0	false
-+	DoK 43	2739	3481	0	false
-+	DoK 46	1034	1130	0	false
-+	DoK 26	1269	492	0	false
-+	DoK 29	1747	524	0	false
-+	DoK 36	1539	3113	0	false
-+	DoK 48	671	622	0	false
-+	DoK 49	3189	241	0	false
-+	DoK 50	798	1838	0	false
-+	DoK 51	4165	2060	0	false
-+	DoK 53	2940	3013	0	false
-+	DoK 54	3037	3146	0	false
-+	DoK 55	3158	3238	0	false
-+	DoK 56	3619	1186	0	false
-+	DoK 57	4205	2288	0	false
-+	DoK 58	1247	429	0	false
-+	DoK 59	3229	102	0	false
-+	DoK 61	2652	3560	0	false
-+	DoK 62	4335	2384	0	false
-+	DoK 63	3150	2948	0	false
-+	DoK 64	4469	2731	0	false
-+	DoK 65	3741	2563	0	false
-+	DoK 66	3740	1852	0	false
-+	DoK 67	936	1956	0	false
-+	DoK HQ	2350	276	0	false
-+	To D 6	4154	6150	0	false
-+	To DEADMAN	1042	0	0	false
-+	To DEADMAN	4750	3290	0	false
-+	To DoK 38	3308	6150	0	false
-+	To DoK 29	1747	6150	0	false
-+	To DoK 64	0	2731	0	false
-+	DoK HQ	2350	6150	0	false
-+	NC 1	1745	538	0	false
-+	NC 2	4043	1571	0	false
-+	NC 3	2151	1072	0	false
-+	NC 4	4261	1080	0	false
-+	NC 5	2364	3122	0	false
-+	NC 6	3616	1535	0	false
-+	NC 7	3469	100	0	false
-+	NC 8	1723	2443	0	false
-+	NC 9	1872	583	0	false
-+	NC 10	4267	879	0	false
-+	NC 11	4246	2318	0	false
-+	NC 13	2848	3538	0	false
-+	NC 14	3802	2417	0	false
-+	NC 16	4428	2803	0	false
-+	NC 17	3945	2351	0	false
-+	NC 19	947	2867	0	false
-+	NC 20	2316	2462	0	false
-+	NC 21	2322	791	0	false
-+	NC Island	4356	3112	0	false
-+	TO NC Island	0	3112	0	false
-+	IDC 1	2290	1003	0	false
-+	IDC 2	527	974	0	false
-+	IDC 3	611	1767	0	false
-+	IDC 5	4142	1252	0	false
-+	IDC 6	1513	572	0	false
-+	IDC 7	2719	3639	0	false
-+	IDC 8	3746	3623	0	false
-+	IDC 9	4140	2067	0	false
-+	IDC 10	4264	3072	0	false
-+	IDC 11	4178	2240	0	false
-+	xBu 1	4245	2301	0	false
-+	xBu 2	4155	1704	0	false
++	DOK-24	3144	3509	0	false
++	DOK-25	2322	791	0	false
++	DOK-27	2207	2522	0	false
++	DOK-32	1066	623	0	false
++	DOK-35	2118	3284	0	false
++	DOK-38	3308	115	0	false
++	DOK-39 dockonly	2369	435	0	false
++	DOK-40	1032	358	0	false
++	DOK-42	2401	981	0	false
++	DOK-43	2739	3481	0	false
++	DOK-46	1034	1130	0	false
++	DOK-26	1269	492	0	false
++	DOK-29	1747	524	0	false
++	DOK-36	1539	3113	0	false
++	DOK-48	671	622	0	false
++	DOK-49	3189	241	0	false
++	DOK-50	798	1838	0	false
++	DOK-51	4165	2060	0	false
++	DOK-53	2940	3013	0	false
++	DOK-54	3037	3146	0	false
++	DOK-55	3158	3238	0	false
++	DOK-56	3619	1186	0	false
++	DOK-57	4205	2288	0	false
++	DOK-58	1247	429	0	false
++	DOK-59	3229	102	0	false
++	DOK-61	2652	3560	0	false
++	DOK-62	4335	2384	0	false
++	DOK-63	3150	2948	0	false
++	DOK-64	4469	2731	0	false
++	DOK-65	3741	2563	0	false
++	DOK-66	3740	1852	0	false
++	DOK-67	936	1956	0	false
++	DoK-HQ	2350	276	0	false
++	To-D 6	4154	6150	0	false
++	To-DEADMAN	1042	0	0	false
++	To-DEADMAN	4750	3290	0	false
++	To-DOK-15	3684	6150	0	false
++	To-DOK-38	3308	6150	0	false
++	To-DOK-29	1747	6150	0	false
++	To-DOK-64	0	2731	0	false
++	DoK-HQ	2350	6150	0	false
++	NC-1	1745	538	0	false
++	NC-2	4043	1571	0	false
++	NC-3	2151	1072	0	false
++	NC-4	4261	1080	0	false
++	NC-5	2364	3122	0	false
++	NC-6	3616	1535	0	false
++	NC-7	3469	100	0	false
++	NC-8	1723	2443	0	false
++	NC-9	1872	583	0	false
++	NC-10	4267	879	0	false
++	NC-11	4246	2318	0	false
++	NC-13	2848	3538	0	false
++	NC-14	3802	2417	0	false
++	NC-16	4428	2803	0	false
++	NC-17	3945	2351	0	false
++	NC-19	947	2867	0	false
++	NC-20	2316	2462	0	false
++	NC-21	2322	791	0	false
++	NC-Island	4356	3112	0	false
++	To-NC-Island	0	3112	0	false
++	IDC-1	2290	1003	0	false
++	IDC-2	527	974	0	false
++	IDC-3	611	1767	0	false
++	IDC-5	4142	1252	0	false
++	IDC-6	1513	572	0	false
++	IDC-7	2719	3639	0	false
++	IDC-8	3746	3623	0	false
++	IDC-9	4140	2067	0	false
++	IDC-10	4264	3072	0	false
++	IDC-11	4178	2240	0	false
++	xBu-1	4245	2301	0	false
++	xBu-2	4155	1704	0	false
++	xBu-3	2441	3326	0	false
++	Evil-1	1320	482	0	false
++	Evil-2	4040	2281	0	false
