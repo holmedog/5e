@@ -77,7 +77,6 @@
 +	NKB-1	3485	73	0	false
 +	NKB-2	1014	315	0	false
 +	NKB-2	1014	6140	0	false
-+	NKB-3	2395	3130	0	false
 +	NKB-4	4243	1260	0	false
 +	NKB-5	1099	1348	0	false
 +	NKB-6	3815	1237	0	false
@@ -218,5 +217,15 @@
 +	xBu-1	4245	2301	0	false
 +	xBu-2	4155	1704	0	false
 +	xBu-3	2441	3326	0	false
++	CO-1	1327	680	0	false
++	CO-3	2671	3448	0	false
++	CO-4	774	1185	0	false
++	CO-6	1885	1529	0	false
++	CO-7	3579	1687	0	false
++	CO-8	4143	2086	0	false
++	CO-9	795	568	0	false
++	CO-10	2951	3708	0	false
++	CO-11	1317	477	0	false
 +	Evil-1	1320	482	0	false
 +	Evil-2	4040	2281	0	false
++	Evil-3	3600	2045	0	false
