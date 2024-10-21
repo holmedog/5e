@@ -230,5 +230,4 @@
 +	CO-11	1317	477	0	false
 +	CO-13	3347	95	0	false
 +	Evil-1	1320	482	0	false
-+	Evil-2	4040	2281	0	false
 +	Evil-3	3600	2045	0	false
