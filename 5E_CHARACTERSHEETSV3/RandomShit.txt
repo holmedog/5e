@@ -31,6 +31,7 @@
 +	FS-25	693	463	0	false
 +	FS-26	2242	1540	0	false
 +	FS-27	3232	2879	0	false
++	FS-28	2395	3130	0	false
 +	FS-29	3271	3501	0	false
 +	FS-30	2506	1017	0	false
 +	FS-31B	3608	1665	0	false
@@ -78,7 +79,6 @@
 +	NKB-1	3485	73	0	false
 +	NKB-2	1014	315	0	false
 +	NKB-2	1014	6140	0	false
-+	NKB-3	2395	3130	0	false
 +	NKB-4	4243	1260	0	false
 +	NKB-5	1099	1348	0	false
 +	NKB-6	3815	1237	0	false
