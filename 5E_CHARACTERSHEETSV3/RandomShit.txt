@@ -35,6 +35,7 @@
 +	FS-29	3271	3501	0	false
 +	FS-30	2506	1017	0	false
 +	FS-31B	3608	1665	0	false
++	FS-32	656	511	0	false
 +	FS-33	2271	2303	0	false
 +	FS-35	3506	1510	0	false
 +	FS-36	3281	851	0	false
@@ -195,9 +196,9 @@
 +	NC-14	3802	2417	0	false
 +	NC-16	4428	2803	0	false
 +	NC-17	3945	2351	0	false
-+	NC-19	947	2867	0	false
 +	NC-20	2316	2462	0	false
 +	NC-21	2322	791	0	false
++	NC-22	1409	515	0	false
 +	NC-Island	4356	3112	0	false
 +	To-NC-Island	0	3112	0	false
 +	IDC-1	2290	1003	0	false
@@ -225,3 +226,4 @@
 +	CO-13	3347	95	0	false
 +	Evil-1	1320	482	0	false
 +	Evil-3	3600	2045	0	false
++	F-1	4069	3434	0	false
