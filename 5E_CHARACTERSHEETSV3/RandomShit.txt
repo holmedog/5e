@@ -54,11 +54,8 @@
 +	FS-70	902	2228	0	false
 +	FS-71	2873	391	0	false
 +	FS-71B	2876	451	0	false
-+	FS-72	4056	1532	0	false
++	FS-72	223	1783	0	false
 +	FS-73	3055	3485	0	false
-+	FS-74	567	1787	0	false
-+	FS-75	4080	1301	0	false
-+	FS-76	2391	3115	0	false
 +	FS-77	4201	2090	0	false
 +	FS-80	3422	2664	0	false
 +	FS-81	4191	2273	0	false
