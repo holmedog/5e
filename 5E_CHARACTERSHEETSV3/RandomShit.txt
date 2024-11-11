@@ -170,6 +170,7 @@
 +	DOK-67	936	1956	0	false
 +	DOK-68	2240	3166	0	false
 +	DOK-69	804	1014	0	false
++	DOK-70	4063	1524	0	false
 +	DoK-HQ	2350	276	0	false
 +	To-D 6	4154	6150	0	false
 +	To-DEADMAN	1042	0	0	false
