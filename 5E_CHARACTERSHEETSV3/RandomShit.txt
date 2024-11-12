@@ -138,6 +138,7 @@
 +	DOK-20	2897	435	0	false
 +	DOK-24	3144	3509	0	false
 +	DOK-25	2322	791	0	false
++	DOK-26	1269	492	0	false
 +	DOK-27	2207	2522	0	false
 +	DOK-32	1066	623	0	false
 +	DOK-35	2118	3284	0	false
@@ -147,15 +148,12 @@
 +	DOK-42	2401	981	0	false
 +	DOK-43	2739	3481	0	false
 +	DOK-46	1034	1130	0	false
-+	DOK-26	1269	492	0	false
-+	DOK-29	1747	524	0	false
 +	DOK-36	1539	3113	0	false
 +	DOK-48	671	622	0	false
 +	DOK-49	3189	241	0	false
 +	DOK-50	798	1838	0	false
 +	DOK-51	4165	2060	0	false
 +	DOK-53	2940	3013	0	false
-+	DOK-54	3037	3146	0	false
 +	DOK-55	3158	3238	0	false
 +	DOK-56	3619	1186	0	false
 +	DOK-57	4205	2288	0	false
@@ -164,7 +162,6 @@
 +	DOK-61	2652	3560	0	false
 +	DOK-62	4335	2384	0	false
 +	DOK-63	3150	2948	0	false
-+	DOK-64	4469	2731	0	false
 +	DOK-65	3741	2563	0	false
 +	DOK-66	3740	1852	0	false
 +	DOK-67	936	1956	0	false
