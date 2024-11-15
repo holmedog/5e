@@ -34,7 +34,6 @@
 +	FS-28	2395	3130	0	false
 +	FS-29	3271	3501	0	false
 +	FS-30	2506	1017	0	false
-+	FS-31B	3608	1665	0	false
 +	FS-32	656	511	0	false
 +	FS-33	2271	2303	0	false
 +	FS-34	3564	3625	0	false
@@ -62,6 +61,7 @@
 +	FS-82	2215	1458	0	false
 +	FS-83	763	3041	0	false
 +	FS-84	3885	3551	0	false
++	FS-99	3378	3842	0	false
 +	WARG-1	2551	3396	0	false
 +	WARG-2	4050	1831	0	false
 +	WARG-4	3958	1868	0	false
@@ -168,7 +168,10 @@
 +	DOK-68	2240	3166	0	false
 +	DOK-69	804	1014	0	false
 +	DOK-70	4063	1524	0	false
++	DOK-71	3125	2909	0	false
++	DOK-72	2692	3484	0	false
 +	DoK-HQ	2350	276	0	false
++	DoK-HQ	2350	6150	0	false
 +	To-D 6	4154	6150	0	false
 +	To-DEADMAN	1042	0	0	false
 +	To-DEADMAN	4750	3290	0	false
