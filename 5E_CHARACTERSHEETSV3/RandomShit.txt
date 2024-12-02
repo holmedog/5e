@@ -66,6 +66,7 @@
 +	FS-Maloka	4334	2355	0	false
 +	FS-Maloka	3634	1723	0	false
 +	FS-Maloka	2103	3339	0	false
++	FS-Vakoe	3739	1660	0	false
 +	WARG-1	2551	3396	0	false
 +	WARG-2	4050	1831	0	false
 +	WARG-4	3958	1868	0	false
