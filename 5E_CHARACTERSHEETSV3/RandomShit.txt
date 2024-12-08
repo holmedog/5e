@@ -47,6 +47,8 @@
 +	FS-44	4246	2318	0	false
 +	FS-48	578	743	0	false
 +	FS-49	4242	1104	0	false
++	FS-50	944	514	0	false
++	FS-51	3528	1418	0	false
 +	FS-52	3339	3765	0	false
 +	FS-53	3041	3774	0	false
 +	FS-58B	2888	3453	0	false
@@ -62,11 +64,11 @@
 +	FS-82	2215	1458	0	false
 +	FS-83	763	3041	0	false
 +	FS-84	3885	3551	0	false
++	FS-85	4334	2355	0	false
++	FS-86	3634	1723	0	false
++	FS-87	2103	3339	0	false
++	FS-88	3739	1660	0	false
 +	FS-99	3378	3842	0	false
-+	FS-Maloka	4334	2355	0	false
-+	FS-Maloka	3634	1723	0	false
-+	FS-Maloka	2103	3339	0	false
-+	FS-Vakoe	3739	1660	0	false
 +	WARG-1	2551	3396	0	false
 +	WARG-2	4050	1831	0	false
 +	WARG-4	3958	1868	0	false
