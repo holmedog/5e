@@ -32,7 +32,6 @@
 +	FS-26	2242	1540	0	false
 +	FS-27	3232	2879	0	false
 +	FS-28	2395	3130	0	false
-+	FS-29	3271	3501	0	false
 +	FS-30	2506	1017	0	false
 +	FS-32	656	511	0	false
 +	FS-33	2271	2303	0	false
@@ -58,7 +57,6 @@
 +	FS-71B	2876	451	0	false
 +	FS-72	223	1783	0	false
 +	FS-72	4745	1783	0	false
-+	FS-73	3055	3485	0	false
 +	FS-77	4201	2090	0	false
 +	FS-80	3422	2664	0	false
 +	FS-81	4191	2273	0	false
@@ -239,9 +237,4 @@
 +	CO-13	3347	95	0	false
 +	Evil-1	1320	482	0	false
 +	Evil-3	3600	2045	0	false
-+	Evil-4	3338	3268	0	false
-+	F-1	4069	3434	0	false
-+	F-2	3609	1175	0	false
-+	F-3	1785	3182	0	false
-+	F-4	3904	3405	0	false
-+	F-5	3744	1556	0	false
++	Evil-4	3055	3485	0	false
