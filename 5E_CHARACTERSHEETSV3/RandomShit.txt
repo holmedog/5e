@@ -103,7 +103,6 @@
 +	NKB-22	15	3330	0	false
 +	NKB-24	2945	2989	0	false
 +	NKB-27	4178	3189	0	false
-+	NKB-29	2080	1371	0	false
 +	NKB-30	1405	3080	0	false
 +	NKB-31	804	1014	0	false
 +	NKB-32	3051	3070	0	false
