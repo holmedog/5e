@@ -137,7 +137,6 @@
 +	DOK-5	1000	3015	0	false
 +	DOK-6	4153	88	0	false
 +	DOK-9 LaunchOnly	4429	2500	0	false
-+	DOK-DEADMAN	1042	3290	0	false
 +	DOK-10	3505	1052	0	false
 +	DOK-16	791	1980	0	false
 +	DOK-19	1050	1821	0	false
@@ -209,6 +208,7 @@
 +	NC-25	3121	2935	0	false
 +	NC-26	4412	2783	0	false
 +	NC-27	3208	3227	0	false
++	NC-28	2106	1142	0	false
 +	NC-Island	4356	3112	0	false
 +	To-NC-Island	0	3112	0	false
 +	IDC-1	2290	1003	0	false
