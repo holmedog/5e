@@ -44,7 +44,7 @@
 +	FS-40	3016	3685	0	false
 +	FS-41	2085	1370	0	false
 +	FS-42	656	932	0	false
-+	FS-44	1249	3030	0	false
++	FS-44	1985	3024	0	false
 +	FS-48	578	743	0	false
 +	FS-49	4242	1104	0	false
 +	FS-50	944	514	0	false
@@ -177,6 +177,7 @@
 +	DOK-75	454	1958	0	false
 +	DOK-76	3298	91	0	false
 +	DOK-77	862	1323	0	false
++	DOK-78	1249	3030	0	false
 +	DoK-HQ	2350	276	0	false
 +	DoK-HQ	2350	6150	0	false
 +	To-D 6	4154	6150	0	false
