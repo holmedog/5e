@@ -157,7 +157,6 @@
 +	DOK-36	1539	3113	0	false
 +	DOK-48	671	622	0	false
 +	DOK-49	3189	241	0	false
-+	DOK-51	4165	2060	0	false
 +	DOK-53	2940	3013	0	false
 +	DOK-55	3158	3238	0	false
 +	DOK-56	3619	1186	0	false
