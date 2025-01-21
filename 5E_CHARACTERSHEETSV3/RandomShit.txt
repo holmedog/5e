@@ -71,6 +71,8 @@
 +	FS-89	3964	3600	0	false
 +	FS-90	3600	1531	0	false
 +	FS-91	3370	2646	0	false
++	FS-92	3643	84	0	false
++	FS-92	3643	6140	0	false
 +	FS-99	3378	3842	0	false
 +	WARG-1	2551	3396	0	false
 +	WARG-2	4050	1831	0	false
