@@ -33,7 +33,6 @@
 +	FS-28	2395	3130	0	false
 +	FS-29	423	873	0	false
 +	FS-30	2506	1017	0	false
-+	FS-31	4096	3373	0	false
 +	FS-32	656	511	0	false
 +	FS-33	2271	2303	0	false
 +	FS-34	3564	3625	0	false
@@ -44,7 +43,6 @@
 +	FS-40	3016	3685	0	false
 +	FS-41	2085	1370	0	false
 +	FS-42	656	932	0	false
-+	FS-44	1985	3024	0	false
 +	FS-48	578	743	0	false
 +	FS-49	4242	1104	0	false
 +	FS-50	944	514	0	false
