@@ -90,6 +90,7 @@
 +	NKB-1	3485	73	0	false
 +	NKB-2	1014	315	0	false
 +	NKB-2	1014	6140	0	false
++	NKB-3	3644	1193	0	false
 +	NKB-4	4243	1260	0	false
 +	NKB-5	1099	1348	0	false
 +	NKB-6	3815	1237	0	false
