@@ -225,6 +225,7 @@
 +	IDC-10	4264	3072	0	false
 +	IDC-11	4178	2240	0	false
 +	IDC-12	2940	3013	0	false
++	IDC-13	3132	3242	0	false
 +	xBu-1	4245	2301	0	false
 +	xBu-2	4155	1704	0	false
 +	xBu-3	2441	3326	0	false
