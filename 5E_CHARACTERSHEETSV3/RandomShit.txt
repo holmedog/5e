@@ -90,7 +90,7 @@
 +	NKB-1	3485	73	0	false
 +	NKB-2	1014	315	0	false
 +	NKB-2	1014	6140	0	false
-+	NKB-3	3644	1193	0	false
++	NKB-3	3644	1	0	false
 +	NKB-4	4243	1260	0	false
 +	NKB-5	1099	1348	0	false
 +	NKB-6	3815	1237	0	false
@@ -211,6 +211,7 @@
 +	NC-26	4412	2783	0	false
 +	NC-27	3208	3227	0	false
 +	NC-28	2106	1142	0	false
++	NC-29	3613	1175	0	false
 +	NC-Island	4356	3112	0	false
 +	To-NC-Island	0	3112	0	false
 +	IDC-1	2290	1003	0	false
@@ -223,6 +224,7 @@
 +	IDC-9	4140	2067	0	false
 +	IDC-10	4264	3072	0	false
 +	IDC-11	4178	2240	0	false
++	IDC-12	2940	3013	0	false
 +	xBu-1	4245	2301	0	false
 +	xBu-2	4155	1704	0	false
 +	xBu-3	2441	3326	0	false
