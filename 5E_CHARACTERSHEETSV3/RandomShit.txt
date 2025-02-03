@@ -170,7 +170,6 @@
 +	DOK-66	3740	1852	0	false
 +	DOK-68	2240	3166	0	false
 +	DOK-69	4163	2040	0	false
-+	DOK-70	4063	1524	0	false
 +	DOK-71	3125	2909	0	false
 +	DOK-72	2692	3484	0	false
 +	DOK-73	3823	1606	0	false
