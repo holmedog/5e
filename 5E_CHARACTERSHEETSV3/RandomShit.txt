@@ -100,9 +100,7 @@
 +	NKB-10	1391	3068	0	false
 +	NKB-13	1322	479	0	false
 +	NKB-18	4010	3524	0	false
-+	NKB-21	4296	2330	0	false
 +	NKB-24	2945	2989	0	false
-+	NKB-27	4178	3189	0	false
 +	NKB-30	1405	3080	0	false
 +	NKB-31	804	1014	0	false
 +	NKB-32	3051	3070	0	false
@@ -221,7 +219,6 @@
 +	IDC-7	2719	3639	0	false
 +	IDC-8	3746	3623	0	false
 +	IDC-9	4140	2067	0	false
-+	IDC-10	4264	3072	0	false
 +	IDC-11	4178	2240	0	false
 +	IDC-12	2940	3013	0	false
 +	IDC-13	3132	3242	0	false
