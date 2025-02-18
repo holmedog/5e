@@ -184,9 +184,7 @@
 +	To-DEADMAN	4750	3290	0	false
 +	To-DOK-15	3684	6150	0	false
 +	To-DOK-38	3308	6150	0	false
-+	To-DOK-29	1747	6150	0	false
 +	DoK-HQ	2350	6150	0	false
-+	NC-1	1745	538	0	false
 +	NC-2	4043	1571	0	false
 +	NC-3	2151	1072	0	false
 +	NC-4	4261	1080	0	false
@@ -205,7 +203,6 @@
 +	NC-23	1982	1116	0	false
 +	NC-24	479	1119	0	false
 +	NC-25	3121	2935	0	false
-+	NC-26	4412	2783	0	false
 +	NC-27	3208	3227	0	false
 +	NC-28	2106	1142	0	false
 +	NC-29	3613	1175	0	false
