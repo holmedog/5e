@@ -24,7 +24,6 @@
 +	FS-18	1468	3116	0	false
 +	FS-19	4016	3515	0	false
 +	FS-20	753	3096	0	false
-+	FS-21	1521	565	0	false
 +	FS-22	679	956	0	false
 +	FS-23	3380	3691	0	false
 +	FS-24	3931	1877	0	false
