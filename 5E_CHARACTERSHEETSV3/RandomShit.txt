@@ -140,7 +140,6 @@
 +	DOK-10	3505	1052	0	false
 +	DOK-16	791	1980	0	false
 +	DOK-19	1050	1821	0	false
-+	DOK-20	2897	435	0	false
 +	DOK-24	3144	3509	0	false
 +	DOK-25	2322	791	0	false
 +	DOK-26	1269	492	0	false
@@ -219,7 +218,6 @@
 +	IDC-9	4140	2067	0	false
 +	IDC-11	4178	2240	0	false
 +	IDC-12	2940	3013	0	false
-+	IDC-13	3132	3242	0	false
 +	xBu-1	4245	2301	0	false
 +	xBu-2	4155	1704	0	false
 +	xBu-3	2441	3326	0	false
