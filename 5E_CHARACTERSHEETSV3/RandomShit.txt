@@ -44,7 +44,7 @@
 +	FS-42	656	932	0	false
 +	FS-48	578	743	0	false
 +	FS-49	4242	1104	0	false
-+	FS-50	944	514	0	false
++	FS-50	968	558	0	false
 +	FS-51	3528	1418	0	false
 +	FS-52	3339	3765	0	false
 +	FS-53	3041	3774	0	false
@@ -231,7 +231,7 @@
 +	CO-9	795	568	0	false
 +	CO-11	1317	477	0	false
 +	CO-13	3347	95	0	false
-+	Evil-1	1320	482	0	false
++	Evil-1	3703	99	0	false
 +	Evil-3	3600	2045	0	false
 +	Evil-4	3037	3489	0	false
 +	Evil-5	3074	3178	0	false
