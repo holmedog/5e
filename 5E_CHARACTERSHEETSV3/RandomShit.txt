@@ -177,6 +177,7 @@
 +	DOK-77	862	1323	0	false
 +	DOK-78	1249	3030	0	false
 +	DOK-79	3951	2302	0	false
++	DOK-80	1152	345	0	false
 +	DoK-HQ	2350	276	0	false
 +	DoK-HQ	2350	6150	0	false
 +	To-D 6	4154	6150	0	false
