@@ -94,7 +94,6 @@
 +	NKB-5	1099	1348	0	false
 +	NKB-6	3815	1237	0	false
 +	NKB-7	1134	2009	0	false
-+	NKB-8	2208	2486	0	false
 +	NKB-9	739	1088	0	false
 +	NKB-10	1391	3068	0	false
 +	NKB-13	1322	479	0	false
@@ -143,7 +142,6 @@
 +	DOK-24	3144	3509	0	false
 +	DOK-25	2322	791	0	false
 +	DOK-26	1269	492	0	false
-+	DOK-27	2207	2522	0	false
 +	DOK-32	1066	623	0	false
 +	DOK-35	2118	3284	0	false
 +	DOK-38	3308	115	0	false
@@ -186,7 +184,6 @@
 +	To-DOK-15	3684	6150	0	false
 +	To-DOK-38	3308	6150	0	false
 +	DoK-HQ	2350	6150	0	false
-+	NC-2	4043	1571	0	false
 +	NC-3	2151	1072	0	false
 +	NC-4	4261	1080	0	false
 +	NC-5	2364	3122	0	false
