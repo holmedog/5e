@@ -146,7 +146,6 @@
 +	DOK-32	1066	623	0	false
 +	DOK-35	2118	3284	0	false
 +	DOK-38	3308	115	0	false
-+	DOK-39 dockonly	2369	435	0	false
 +	DOK-40	1032	358	0	false
 +	DOK-42	2401	981	0	false
 +	DOK-43	2739	3481	0	false
@@ -177,6 +176,7 @@
 +	DOK-78	1249	3030	0	false
 +	DOK-79	3951	2302	0	false
 +	DOK-80	1152	345	0	false
++	DOK-99	2857	417	0	false
 +	DoK-HQ	2350	276	0	false
 +	DoK-HQ	2350	6150	0	false
 +	To-D 6	4154	6150	0	false
